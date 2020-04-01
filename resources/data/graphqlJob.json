@@ -1,0 +1,4088 @@
+[
+    {
+      "id": "cjz1ipl9x009a0758hg68h7vy",
+      "type":"remote",
+      "job_type":"graphql",
+      "title": "Senior Fullstack Engineer - Platform",
+      "slug": "senior-fullstack-engineer-platform",
+      "createdAt": "2019-08-07T17:19:52.764Z",
+      "locationNames": "San Francisco",
+      "isFeatured": true,
+      "isPublished": true,
+      "userEmail": "marta@segment.com",
+      "tags": [
+        {
+          "id": "cjuv8p7ta00qt0735edys5ye9",
+          "name": "TypeScript",
+          "slug": "typescript",
+          "createdAt": "2019-04-24T13:14:12.814Z",
+          "updatedAt": "2019-04-24T13:14:12.814Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        },
+        {
+          "id": "cjv1bvohg00x50722x3q2evc0",
+          "name": "Go",
+          "slug": "go",
+          "createdAt": "2019-04-28T19:29:50.259Z",
+          "updatedAt": "2019-04-28T19:29:50.259Z"
+        },
+        {
+          "id": "cjv2gdqsw02df0733s8k7fyn9",
+          "name": "AWS",
+          "slug": "aws",
+          "createdAt": "2019-04-29T14:23:37.712Z",
+          "updatedAt": "2019-04-29T14:23:37.712Z"
+        },
+        {
+          "id": "cjv48lovf02zk0727ncr1ja2v",
+          "name": "Docker",
+          "slug": "docker",
+          "createdAt": "2019-04-30T20:21:23.883Z",
+          "updatedAt": "2019-04-30T20:21:23.883Z"
+        },
+        {
+          "id": "cjz8ufyht01980787lytkyyvj",
+          "name": "Kafka",
+          "slug": "kafka",
+          "createdAt": "2019-08-12T20:22:42.017Z",
+          "updatedAt": "2019-08-12T20:22:42.017Z"
+        },
+        {
+          "id": "cjz8uggjd019j07872qdq6lj4",
+          "name": "Senior",
+          "slug": "senior",
+          "createdAt": "2019-08-12T20:23:05.400Z",
+          "updatedAt": "2019-08-12T20:23:05.400Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjwt2a8j700by0793lnvon5c9",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Full Stack JavaScript Developer",
+      "slug": "full-stack-javascript-developer",
+      "createdAt": "2019-06-12T09:58:28.530Z",
+      "locationNames": "Remote / Berlin",
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": "info@unrealists.com",
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        },
+        {
+          "id": "cjuvgc9a202ze073530btrjgl",
+          "name": "Serverless",
+          "slug": "serverless",
+          "createdAt": "2019-04-24T16:48:05.114Z",
+          "updatedAt": "2019-04-24T16:48:05.114Z"
+        },
+        {
+          "id": "cjuvphr8p03t40735bmqylk7l",
+          "name": "Lambda",
+          "slug": "lambda",
+          "createdAt": "2019-04-24T21:04:18.217Z",
+          "updatedAt": "2019-04-24T21:04:18.217Z"
+        },
+        {
+          "id": "cjv2gdqsw02df0733s8k7fyn9",
+          "name": "AWS",
+          "slug": "aws",
+          "createdAt": "2019-04-29T14:23:37.712Z",
+          "updatedAt": "2019-04-29T14:23:37.712Z"
+        },
+        {
+          "id": "cjz8uyy8701cy07876cmguifd",
+          "name": "Angular",
+          "slug": "angular",
+          "createdAt": "2019-08-12T20:37:28.135Z",
+          "updatedAt": "2019-08-12T20:37:28.135Z"
+        },
+        {
+          "id": "cjz8uz80f01d70787jrx96fmm",
+          "name": "Vue",
+          "slug": "vue",
+          "createdAt": "2019-08-12T20:37:40.814Z",
+          "updatedAt": "2019-08-12T20:38:49.807Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Berlin",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjw1yogu0007j079339al4zyu",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Software Engineer, API Development",
+      "slug": "ad01d326-5a60-48c8-8978-e14e67d361cd",
+      "createdAt": "2019-05-24T10:47:47.216Z",
+      "locationNames": "London, United Kingdom",
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": "karolis.mazukna@deepcrawl.com",
+      "tags": [
+        {
+          "id": "cjuv8p7ta00qt0735edys5ye9",
+          "name": "TypeScript",
+          "slug": "typescript",
+          "createdAt": "2019-04-24T13:14:12.814Z",
+          "updatedAt": "2019-04-24T13:14:12.814Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjv23sze9018h07339yf7upab",
+          "name": "Redis",
+          "slug": "redis",
+          "createdAt": "2019-04-29T08:31:33.681Z",
+          "updatedAt": "2019-04-29T08:31:33.681Z"
+        },
+        {
+          "id": "cjv48lovf02zk0727ncr1ja2v",
+          "name": "Docker",
+          "slug": "docker",
+          "createdAt": "2019-04-30T20:21:23.883Z",
+          "updatedAt": "2019-04-30T20:21:23.883Z"
+        },
+        {
+          "id": "cjvdno0ah009e0758gdr75bo4",
+          "name": "Jest",
+          "slug": "jest",
+          "createdAt": "2019-05-07T10:33:01.817Z",
+          "updatedAt": "2019-05-07T10:33:01.817Z"
+        },
+        {
+          "id": "cjvdno6sm009n0758aouub206",
+          "name": "MySQL",
+          "slug": "mysql",
+          "createdAt": "2019-05-07T10:33:10.246Z",
+          "updatedAt": "2019-05-07T10:33:10.246Z"
+        },
+        {
+          "id": "cjz8uggjd019j07872qdq6lj4",
+          "name": "Senior",
+          "slug": "senior",
+          "createdAt": "2019-08-12T20:23:05.400Z",
+          "updatedAt": "2019-08-12T20:23:05.400Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjwqsa7wj007d0778obv0dfs9",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Experienced Backend Engineer - Go",
+      "slug": "experienced-backend-engineer-go",
+      "createdAt": "2019-06-10T19:42:59.196Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5tc5300ij0735n472didd",
+          "name": "Backend",
+          "slug": "backend",
+          "createdAt": "2019-04-24T11:53:26.198Z",
+          "updatedAt": "2019-04-24T11:53:26.198Z"
+        },
+        {
+          "id": "cjv1bvohg00x50722x3q2evc0",
+          "name": "Go",
+          "slug": "go",
+          "createdAt": "2019-04-28T19:29:50.259Z",
+          "updatedAt": "2019-04-28T19:29:50.259Z"
+        },
+        {
+          "id": "cjv48lovf02zk0727ncr1ja2v",
+          "name": "Docker",
+          "slug": "docker",
+          "createdAt": "2019-04-30T20:21:23.883Z",
+          "updatedAt": "2019-04-30T20:21:23.883Z"
+        },
+        {
+          "id": "cjv48mhfa03020727hguc77pv",
+          "name": "Kubernetes",
+          "slug": "kubernetes",
+          "createdAt": "2019-04-30T20:22:00.886Z",
+          "updatedAt": "2019-04-30T20:22:00.886Z"
+        },
+        {
+          "id": "cjv58z23g00pg0779sac9t8ot",
+          "name": "Webpack",
+          "slug": "webpack",
+          "createdAt": "2019-05-01T13:19:33.724Z",
+          "updatedAt": "2019-05-01T13:19:33.724Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": []
+    },
+    {
+      "id": "cjwnlolmk03hm0756mmvkw5d2",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Software Engineer - Frontend",
+      "slug": "senior-software-engineer-frontend",
+      "createdAt": "2019-06-08T14:14:54.331Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjv48wewv032i0727iancc2wv",
+          "name": "Frontend",
+          "slug": "frontend",
+          "createdAt": "2019-04-30T20:29:44.191Z",
+          "updatedAt": "2019-04-30T20:29:44.191Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": []
+    },
+    {
+      "id": "cjwnlegxb03dv0756ysmiqd0y",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Software Engineer - Backend",
+      "slug": "senior-software-engineer-backend",
+      "createdAt": "2019-06-08T14:07:01.678Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5tc5300ij0735n472didd",
+          "name": "Backend",
+          "slug": "backend",
+          "createdAt": "2019-04-24T11:53:26.198Z",
+          "updatedAt": "2019-04-24T11:53:26.198Z"
+        },
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": []
+    },
+    {
+      "id": "cjwnkzzh003bh0756hc34rui5",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Full Stack Javascript Developer",
+      "slug": "full-stack-javascript-developer",
+      "createdAt": "2019-06-08T13:55:45.870Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8p7ta00qt0735edys5ye9",
+          "name": "TypeScript",
+          "slug": "typescript",
+          "createdAt": "2019-04-24T13:14:12.814Z",
+          "updatedAt": "2019-04-24T13:14:12.814Z"
+        },
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        },
+        {
+          "id": "cjv2gdqsw02df0733s8k7fyn9",
+          "name": "AWS",
+          "slug": "aws",
+          "createdAt": "2019-04-29T14:23:37.712Z",
+          "updatedAt": "2019-04-29T14:23:37.712Z"
+        },
+        {
+          "id": "cjvdno0ah009e0758gdr75bo4",
+          "name": "Jest",
+          "slug": "jest",
+          "createdAt": "2019-05-07T10:33:01.817Z",
+          "updatedAt": "2019-05-07T10:33:01.817Z"
+        },
+        {
+          "id": "cjwnlhali03eo07569feervbs",
+          "name": "Postgraphile",
+          "slug": "postgraphile",
+          "createdAt": "2019-06-08T14:09:13.446Z",
+          "updatedAt": "2019-06-08T14:09:13.446Z"
+        },
+        {
+          "id": "cjwnlhmzf03ex07569ul3os6t",
+          "name": "Firestore",
+          "slug": "firestore",
+          "createdAt": "2019-06-08T14:09:29.499Z",
+          "updatedAt": "2019-06-08T14:09:29.499Z"
+        },
+        {
+          "id": "cjwnlifd503f60756kx7d7z1m",
+          "name": "Cypress.io",
+          "slug": "cypress-io",
+          "createdAt": "2019-06-08T14:10:06.280Z",
+          "updatedAt": "2019-06-08T14:10:06.280Z"
+        },
+        {
+          "id": "cjwnlin3t03ff0756yxkp2pu5",
+          "name": "Flutter",
+          "slug": "flutter",
+          "createdAt": "2019-06-08T14:10:16.313Z",
+          "updatedAt": "2019-06-08T14:10:16.313Z"
+        },
+        {
+          "id": "cjwnliyua03fo0756fmy7b80d",
+          "name": "CircleCI",
+          "slug": "circleci",
+          "createdAt": "2019-06-08T14:10:31.521Z",
+          "updatedAt": "2019-06-08T14:10:31.521Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": []
+    },
+    {
+      "id": "cjvnpsy2900ed0704atnvb6r9",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Deep Learning Engineer",
+      "slug": "deep-learning-engineer",
+      "createdAt": "2019-05-14T11:30:33.200Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        },
+        {
+          "id": "cjvnpu2gl00ex0704w0scay4d",
+          "name": "Tensorflow",
+          "slug": "tensorflow",
+          "createdAt": "2019-05-14T11:31:25.557Z",
+          "updatedAt": "2019-05-14T11:31:25.557Z"
+        },
+        {
+          "id": "cjvnpv9pb00g60704ta0pklvx",
+          "name": "Google Cloud Platform",
+          "slug": "google-cloud-platform",
+          "createdAt": "2019-05-14T11:32:21.599Z",
+          "updatedAt": "2019-05-14T11:32:21.599Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Oakland",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvnpnno700c90704rfmmyce4",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Full Stack Engineer",
+      "slug": "full-stack-engineer",
+      "createdAt": "2019-05-14T11:26:26.455Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb1vg901760735ngfkps7y",
+          "name": "Django",
+          "slug": "django",
+          "createdAt": "2019-04-24T14:20:02.553Z",
+          "updatedAt": "2019-04-24T14:20:02.553Z"
+        },
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        },
+        {
+          "id": "cjv2gckny02cu0733w0cpzalo",
+          "name": "Postgres",
+          "slug": "postgres",
+          "createdAt": "2019-04-29T14:22:43.102Z",
+          "updatedAt": "2019-04-29T14:22:43.102Z"
+        },
+        {
+          "id": "cjvdno6sm009n0758aouub206",
+          "name": "MySQL",
+          "slug": "mysql",
+          "createdAt": "2019-05-07T10:33:10.246Z",
+          "updatedAt": "2019-05-07T10:33:10.246Z"
+        },
+        {
+          "id": "cjvnpq7jq00cs0704y0gb2ps1",
+          "name": "Machine Learning",
+          "slug": "machine-learning",
+          "createdAt": "2019-05-14T11:28:25.526Z",
+          "updatedAt": "2019-05-14T11:28:25.526Z"
+        },
+        {
+          "id": "cjvnpqcuy00d10704l3q7dl8a",
+          "name": "Sqlite",
+          "slug": "sqlite",
+          "createdAt": "2019-05-14T11:28:32.410Z",
+          "updatedAt": "2019-05-14T11:28:32.410Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Oakland",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvnp9t44009y0704sqv10qg9",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "React Developer",
+      "slug": "react-developer",
+      "createdAt": "2019-05-14T11:15:40.324Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8p7ta00qt0735edys5ye9",
+          "name": "TypeScript",
+          "slug": "typescript",
+          "createdAt": "2019-04-24T13:14:12.814Z",
+          "updatedAt": "2019-04-24T13:14:12.814Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        },
+        {
+          "id": "cjv48wewv032i0727iancc2wv",
+          "name": "Frontend",
+          "slug": "frontend",
+          "createdAt": "2019-04-30T20:29:44.191Z",
+          "updatedAt": "2019-04-30T20:29:44.191Z"
+        },
+        {
+          "id": "cjvdno0ah009e0758gdr75bo4",
+          "name": "Jest",
+          "slug": "jest",
+          "createdAt": "2019-05-07T10:33:01.817Z",
+          "updatedAt": "2019-05-07T10:33:01.817Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Boulder",
+          "type": "city"
+        },
+        {
+          "name": "Providence",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvjww28x00e80715lcroye4a",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "iOS Engineer",
+      "slug": "ios-engineer",
+      "createdAt": "2019-05-11T19:37:51.201Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjv19ovh900jt0722a7n5chxz",
+          "name": "Swift",
+          "slug": "swift",
+          "createdAt": "2019-04-28T18:28:33.501Z",
+          "updatedAt": "2019-04-28T18:28:33.501Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvjwr8tk00db071512tp2sms",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Android Engineer",
+      "slug": "android-engineer",
+      "createdAt": "2019-05-11T19:34:06.439Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvaiy8d012n0735l3xip2mu",
+          "name": "Android",
+          "slug": "android",
+          "createdAt": "2019-04-24T14:05:19.693Z",
+          "updatedAt": "2019-04-24T14:05:19.693Z"
+        },
+        {
+          "id": "cjv1bvtzd00xe0722y6ykez6a",
+          "name": "Java",
+          "slug": "java",
+          "createdAt": "2019-04-28T19:29:57.384Z",
+          "updatedAt": "2019-04-28T19:29:57.384Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvjwo9a400ca07154gm6uv0t",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Frontend Engineer",
+      "slug": "senior-frontend-engineer",
+      "createdAt": "2019-05-11T19:31:47.068Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjv48wewv032i0727iancc2wv",
+          "name": "Frontend",
+          "slug": "frontend",
+          "createdAt": "2019-04-30T20:29:44.191Z",
+          "updatedAt": "2019-04-30T20:29:44.191Z"
+        },
+        {
+          "id": "cjvdno6sm009n0758aouub206",
+          "name": "MySQL",
+          "slug": "mysql",
+          "createdAt": "2019-05-07T10:33:10.246Z",
+          "updatedAt": "2019-05-07T10:33:10.246Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvjw5ajp00ag0715p073feg9",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "React Focused Fullstack Developer",
+      "slug": "react-focused-fullstack-developer",
+      "createdAt": "2019-05-11T19:17:02.240Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8p7ta00qt0735edys5ye9",
+          "name": "TypeScript",
+          "slug": "typescript",
+          "createdAt": "2019-04-24T13:14:12.814Z",
+          "updatedAt": "2019-04-24T13:14:12.814Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvcgpyi01dr0735o6heljr5",
+          "name": "Elixir",
+          "slug": "elixir",
+          "createdAt": "2019-04-24T14:59:34.889Z",
+          "updatedAt": "2019-04-24T14:59:34.889Z"
+        },
+        {
+          "id": "cjuvcgw6o01e007358gao116j",
+          "name": "Phoenix",
+          "slug": "phoenix",
+          "createdAt": "2019-04-24T14:59:42.960Z",
+          "updatedAt": "2019-04-24T14:59:42.960Z"
+        },
+        {
+          "id": "cjuvfs35602nn0735uw9f26w4",
+          "name": "Ruby",
+          "slug": "ruby",
+          "createdAt": "2019-04-24T16:32:24.042Z",
+          "updatedAt": "2019-04-24T16:32:24.042Z"
+        },
+        {
+          "id": "cjuvfs97f02nw0735fs7thkba",
+          "name": "Ruby on Rails",
+          "slug": "ruby-on-rails",
+          "createdAt": "2019-04-24T16:32:31.899Z",
+          "updatedAt": "2019-04-24T16:32:31.899Z"
+        },
+        {
+          "id": "cjv48mhfa03020727hguc77pv",
+          "name": "Kubernetes",
+          "slug": "kubernetes",
+          "createdAt": "2019-04-30T20:22:00.886Z",
+          "updatedAt": "2019-04-30T20:22:00.886Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvh36efu005z0779beju4usa",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Software Developer Intern",
+      "slug": "software-developer-intern",
+      "createdAt": "2019-05-09T20:10:32.730Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjv2gdqsw02df0733s8k7fyn9",
+          "name": "AWS",
+          "slug": "aws",
+          "createdAt": "2019-04-29T14:23:37.712Z",
+          "updatedAt": "2019-04-29T14:23:37.712Z"
+        },
+        {
+          "id": "cjv48lovf02zk0727ncr1ja2v",
+          "name": "Docker",
+          "slug": "docker",
+          "createdAt": "2019-04-30T20:21:23.883Z",
+          "updatedAt": "2019-04-30T20:21:23.883Z"
+        },
+        {
+          "id": "cjvh38duy006q07790z5kddlg",
+          "name": "MSSQL",
+          "slug": "mssql",
+          "createdAt": "2019-05-09T20:12:05.290Z",
+          "updatedAt": "2019-05-09T20:12:05.290Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Lehi",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvh20vy5002g07793ef6iakc",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "React Frontend Developer",
+      "slug": "react-frontend-developer",
+      "createdAt": "2019-05-09T19:38:15.868Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjv23wjlz01a80733wvaabwfw",
+          "name": "Next.js",
+          "slug": "next-js",
+          "createdAt": "2019-04-29T08:34:19.847Z",
+          "updatedAt": "2019-04-29T08:34:19.847Z"
+        },
+        {
+          "id": "cjv48mhfa03020727hguc77pv",
+          "name": "Kubernetes",
+          "slug": "kubernetes",
+          "createdAt": "2019-04-30T20:22:00.886Z",
+          "updatedAt": "2019-04-30T20:22:00.886Z"
+        },
+        {
+          "id": "cjvdntlq800bh07583yepz351",
+          "name": "C++",
+          "slug": "c-plus-plus",
+          "createdAt": "2019-05-07T10:37:22.880Z",
+          "updatedAt": "2019-05-07T10:37:22.880Z"
+        },
+        {
+          "id": "cjvh22i3a00340779q4tjsf1h",
+          "name": "EOS",
+          "slug": "eos",
+          "createdAt": "2019-05-09T19:39:31.222Z",
+          "updatedAt": "2019-05-09T19:39:31.222Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Porto",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvdrajj400eg0758lnb8o9m1",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Software Engineer, Backend Development",
+      "slug": "senior-software-engineer-backend-development",
+      "createdAt": "2019-05-07T12:14:32.031Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5tc5300ij0735n472didd",
+          "name": "Backend",
+          "slug": "backend",
+          "createdAt": "2019-04-24T11:53:26.198Z",
+          "updatedAt": "2019-04-24T11:53:26.198Z"
+        },
+        {
+          "id": "cjuv5u6fa00j10735glq5v5e2",
+          "name": "Scala",
+          "slug": "scala",
+          "createdAt": "2019-04-24T11:54:05.445Z",
+          "updatedAt": "2019-04-24T11:54:05.445Z"
+        },
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        },
+        {
+          "id": "cjv1bvohg00x50722x3q2evc0",
+          "name": "Go",
+          "slug": "go",
+          "createdAt": "2019-04-28T19:29:50.259Z",
+          "updatedAt": "2019-04-28T19:29:50.259Z"
+        },
+        {
+          "id": "cjv23sze9018h07339yf7upab",
+          "name": "Redis",
+          "slug": "redis",
+          "createdAt": "2019-04-29T08:31:33.681Z",
+          "updatedAt": "2019-04-29T08:31:33.681Z"
+        },
+        {
+          "id": "cjvdmhos9005j0758xwzl9xmz",
+          "name": "MongoDB",
+          "slug": "mongo-db",
+          "createdAt": "2019-05-07T10:00:07.353Z",
+          "updatedAt": "2019-05-07T10:00:07.353Z"
+        },
+        {
+          "id": "cjvdno6sm009n0758aouub206",
+          "name": "MySQL",
+          "slug": "mysql",
+          "createdAt": "2019-05-07T10:33:10.246Z",
+          "updatedAt": "2019-05-07T10:33:10.246Z"
+        },
+        {
+          "id": "cjvdntccc00b80758ttbn2fmj",
+          "name": "C",
+          "slug": "C",
+          "createdAt": "2019-05-07T10:37:10.715Z",
+          "updatedAt": "2019-05-07T10:37:10.715Z"
+        },
+        {
+          "id": "cjvdntlq800bh07583yepz351",
+          "name": "C++",
+          "slug": "c-plus-plus",
+          "createdAt": "2019-05-07T10:37:22.880Z",
+          "updatedAt": "2019-05-07T10:37:22.880Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Taipei",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvdnrig800am0758ntclpnyl",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Software Engineer, Backend Development",
+      "slug": "software-engineer-backend-developer",
+      "createdAt": "2019-05-07T10:35:45.320Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5u6fa00j10735glq5v5e2",
+          "name": "Scala",
+          "slug": "scala",
+          "createdAt": "2019-04-24T11:54:05.445Z",
+          "updatedAt": "2019-04-24T11:54:05.445Z"
+        },
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        },
+        {
+          "id": "cjv1bvohg00x50722x3q2evc0",
+          "name": "Go",
+          "slug": "go",
+          "createdAt": "2019-04-28T19:29:50.259Z",
+          "updatedAt": "2019-04-28T19:29:50.259Z"
+        },
+        {
+          "id": "cjv23sze9018h07339yf7upab",
+          "name": "Redis",
+          "slug": "redis",
+          "createdAt": "2019-04-29T08:31:33.681Z",
+          "updatedAt": "2019-04-29T08:31:33.681Z"
+        },
+        {
+          "id": "cjvdmhos9005j0758xwzl9xmz",
+          "name": "MongoDB",
+          "slug": "mongo-db",
+          "createdAt": "2019-05-07T10:00:07.353Z",
+          "updatedAt": "2019-05-07T10:00:07.353Z"
+        },
+        {
+          "id": "cjvdno6sm009n0758aouub206",
+          "name": "MySQL",
+          "slug": "mysql",
+          "createdAt": "2019-05-07T10:33:10.246Z",
+          "updatedAt": "2019-05-07T10:33:10.246Z"
+        },
+        {
+          "id": "cjvdntccc00b80758ttbn2fmj",
+          "name": "C",
+          "slug": "C",
+          "createdAt": "2019-05-07T10:37:10.715Z",
+          "updatedAt": "2019-05-07T10:37:10.715Z"
+        },
+        {
+          "id": "cjvdntlq800bh07583yepz351",
+          "name": "C++",
+          "slug": "c-plus-plus",
+          "createdAt": "2019-05-07T10:37:22.880Z",
+          "updatedAt": "2019-05-07T10:37:22.880Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Taipei",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvdn99pb008q07581kq5ksfz",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Software Engineer, Frontend Development",
+      "slug": "software-engineer-frontend-development",
+      "createdAt": "2019-05-07T10:21:34.175Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjv1a2qmv00n60722d6jxdy6o",
+          "name": "CSS Modules",
+          "slug": "css-modules",
+          "createdAt": "2019-04-28T18:39:20.407Z",
+          "updatedAt": "2019-04-28T18:39:20.407Z"
+        },
+        {
+          "id": "cjv48wewv032i0727iancc2wv",
+          "name": "Frontend",
+          "slug": "frontend",
+          "createdAt": "2019-04-30T20:29:44.191Z",
+          "updatedAt": "2019-04-30T20:29:44.191Z"
+        },
+        {
+          "id": "cjv58z23g00pg0779sac9t8ot",
+          "name": "Webpack",
+          "slug": "webpack",
+          "createdAt": "2019-05-01T13:19:33.724Z",
+          "updatedAt": "2019-05-01T13:19:33.724Z"
+        },
+        {
+          "id": "cjvdmhos9005j0758xwzl9xmz",
+          "name": "MongoDB",
+          "slug": "mongo-db",
+          "createdAt": "2019-05-07T10:00:07.353Z",
+          "updatedAt": "2019-05-07T10:00:07.353Z"
+        },
+        {
+          "id": "cjvdno0ah009e0758gdr75bo4",
+          "name": "Jest",
+          "slug": "jest",
+          "createdAt": "2019-05-07T10:33:01.817Z",
+          "updatedAt": "2019-05-07T10:33:01.817Z"
+        },
+        {
+          "id": "cjvdno6sm009n0758aouub206",
+          "name": "MySQL",
+          "slug": "mysql",
+          "createdAt": "2019-05-07T10:33:10.246Z",
+          "updatedAt": "2019-05-07T10:33:10.246Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Taipei",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjvdmahxd004w0758atpe4xr0",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Backend Typescript / Javascript Developer",
+      "slug": "backend-typescript-javascript-developer",
+      "createdAt": "2019-05-07T09:54:31.862Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv5tc5300ij0735n472didd",
+          "name": "Backend",
+          "slug": "backend",
+          "createdAt": "2019-04-24T11:53:26.198Z",
+          "updatedAt": "2019-04-24T11:53:26.198Z"
+        },
+        {
+          "id": "cjuv8p7ta00qt0735edys5ye9",
+          "name": "TypeScript",
+          "slug": "typescript",
+          "createdAt": "2019-04-24T13:14:12.814Z",
+          "updatedAt": "2019-04-24T13:14:12.814Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjv23sze9018h07339yf7upab",
+          "name": "Redis",
+          "slug": "redis",
+          "createdAt": "2019-04-29T08:31:33.681Z",
+          "updatedAt": "2019-04-29T08:31:33.681Z"
+        },
+        {
+          "id": "cjv2gdqsw02df0733s8k7fyn9",
+          "name": "AWS",
+          "slug": "aws",
+          "createdAt": "2019-04-29T14:23:37.712Z",
+          "updatedAt": "2019-04-29T14:23:37.712Z"
+        },
+        {
+          "id": "cjvdmhos9005j0758xwzl9xmz",
+          "name": "MongoDB",
+          "slug": "mongo-db",
+          "createdAt": "2019-05-07T10:00:07.353Z",
+          "updatedAt": "2019-05-07T10:00:07.353Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": []
+    },
+    {
+      "id": "cjv804s6q011j0791px9b545d",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Intermediate Java Developer With GraphQL",
+      "slug": "intermediate-java-developer-with-graphql",
+      "createdAt": "2019-05-03T11:35:22.802Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjv1bvtzd00xe0722y6ykez6a",
+          "name": "Java",
+          "slug": "java",
+          "createdAt": "2019-04-28T19:29:57.384Z",
+          "updatedAt": "2019-04-28T19:29:57.384Z"
+        },
+        {
+          "id": "cjv48ojlx030b0727k868a1wz",
+          "name": "Spring",
+          "slug": "spring",
+          "createdAt": "2019-04-30T20:23:37.028Z",
+          "updatedAt": "2019-04-30T20:23:37.028Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Mexico City",
+          "type": "city"
+        },
+        {
+          "name": "Colima",
+          "type": "city"
+        },
+        {
+          "name": "Merida",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv7zjznd00x00791gn6tygze",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Regular Front-end Developer",
+      "slug": "regular-front-end-developer",
+      "createdAt": "2019-05-03T11:19:12.697Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjv48wewv032i0727iancc2wv",
+          "name": "Frontend",
+          "slug": "frontend",
+          "createdAt": "2019-04-30T20:29:44.191Z",
+          "updatedAt": "2019-04-30T20:29:44.191Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Wrocław",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv7zfpu500vt0791vxx1h4p9",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Front-end Developer",
+      "slug": "senior-front-end-developer",
+      "createdAt": "2019-05-03T11:15:53.356Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjv48wewv032i0727iancc2wv",
+          "name": "Frontend",
+          "slug": "frontend",
+          "createdAt": "2019-04-30T20:29:44.191Z",
+          "updatedAt": "2019-04-30T20:29:44.191Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Wrocław",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv23vj27019o0733yppqvbh5",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Frontend Developer",
+      "slug": "frontend-developer",
+      "createdAt": "2019-04-29T08:33:32.479Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjv23sze9018h07339yf7upab",
+          "name": "Redis",
+          "slug": "redis",
+          "createdAt": "2019-04-29T08:31:33.681Z",
+          "updatedAt": "2019-04-29T08:31:33.681Z"
+        },
+        {
+          "id": "cjv23t4fq018q0733yrikt93m",
+          "name": "Express",
+          "slug": "express",
+          "createdAt": "2019-04-29T08:31:40.214Z",
+          "updatedAt": "2019-04-29T08:31:40.214Z"
+        },
+        {
+          "id": "cjv23wjlz01a80733wvaabwfw",
+          "name": "Next.js",
+          "slug": "next-js",
+          "createdAt": "2019-04-29T08:34:19.847Z",
+          "updatedAt": "2019-04-29T08:34:19.847Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Skien",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv78ogff00hk07400ax7q2zr",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "(Senior) Backend Node.js Developer (m/f/d)",
+      "slug": "senior-backend-node-js-developer",
+      "createdAt": "2019-05-02T22:46:51.434Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv5tc5300ij0735n472didd",
+          "name": "Backend",
+          "slug": "backend",
+          "createdAt": "2019-04-24T11:53:26.198Z",
+          "updatedAt": "2019-04-24T11:53:26.198Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Berlin",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv78llmr00gg0740rf5hcvhz",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "(Senior) Frontend React.js Developer (m/f/d)",
+      "slug": "senior-frontend-react-js-developer",
+      "createdAt": "2019-05-02T22:44:38.211Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5st6700i1073596k2wa0e",
+          "name": "Relay",
+          "slug": "relay",
+          "createdAt": "2019-04-24T11:53:01.614Z",
+          "updatedAt": "2019-04-24T11:53:01.614Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        },
+        {
+          "id": "cjv48wewv032i0727iancc2wv",
+          "name": "Frontend",
+          "slug": "frontend",
+          "createdAt": "2019-04-30T20:29:44.191Z",
+          "updatedAt": "2019-04-30T20:29:44.191Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Berlin",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv78iepl00fh0740u2k4lvle",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Fullstack JavaScript Developer (m/f/d)",
+      "slug": "senior-fullstack-javascript-developer",
+      "createdAt": "2019-05-02T22:42:09.272Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Berlin",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv7841pq00cu0740wlawuohj",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Experienced Javascript/React developer",
+      "slug": "experienced-javascript-react-developer",
+      "createdAt": "2019-05-02T22:30:59.246Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        },
+        {
+          "id": "cjv7851nc00dc0740bvhh9339",
+          "name": "Redux Saga",
+          "slug": "redux-saga",
+          "createdAt": "2019-05-02T22:31:45.816Z",
+          "updatedAt": "2019-05-02T22:33:03.107Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Copenhagen",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv5bhu5z00wh0779xrse54zk",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "API Developer (Rails / GraphQL)",
+      "slug": "api-developer-rails-graphql",
+      "createdAt": "2019-05-01T14:30:09.142Z",
+      "locationNames": "Houston, TX",
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": "jason@goco.io",
+      "tags": [
+        {
+          "id": "cjuv5st6700i1073596k2wa0e",
+          "name": "Relay",
+          "slug": "relay",
+          "createdAt": "2019-04-24T11:53:01.614Z",
+          "updatedAt": "2019-04-24T11:53:01.614Z"
+        },
+        {
+          "id": "cjuv5tc5300ij0735n472didd",
+          "name": "Backend",
+          "slug": "backend",
+          "createdAt": "2019-04-24T11:53:26.198Z",
+          "updatedAt": "2019-04-24T11:53:26.198Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvfs97f02nw0735fs7thkba",
+          "name": "Ruby on Rails",
+          "slug": "ruby-on-rails",
+          "createdAt": "2019-04-24T16:32:31.899Z",
+          "updatedAt": "2019-04-24T16:32:31.899Z"
+        },
+        {
+          "id": "cjv23sze9018h07339yf7upab",
+          "name": "Redis",
+          "slug": "redis",
+          "createdAt": "2019-04-29T08:31:33.681Z",
+          "updatedAt": "2019-04-29T08:31:33.681Z"
+        },
+        {
+          "id": "cjv2gckny02cu0733w0cpzalo",
+          "name": "Postgres",
+          "slug": "postgres",
+          "createdAt": "2019-04-29T14:22:43.102Z",
+          "updatedAt": "2019-04-29T14:22:43.102Z"
+        },
+        {
+          "id": "cjv2gdqsw02df0733s8k7fyn9",
+          "name": "AWS",
+          "slug": "aws",
+          "createdAt": "2019-04-29T14:23:37.712Z",
+          "updatedAt": "2019-04-29T14:23:37.712Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Houston",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv59hfll00sf0779n80kyy4c",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "iOS Engineer",
+      "slug": "ios-engineer",
+      "createdAt": "2019-05-01T13:33:51.033Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        },
+        {
+          "id": "cjv19ovh900jt0722a7n5chxz",
+          "name": "Swift",
+          "slug": "swift",
+          "createdAt": "2019-04-28T18:28:33.501Z",
+          "updatedAt": "2019-04-28T18:28:33.501Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv59o77y00tj0779fpdq125e",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Engineering Manager",
+      "slug": "engineering-manager",
+      "createdAt": "2019-05-01T13:39:06.763Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        },
+        {
+          "id": "cjuvfs97f02nw0735fs7thkba",
+          "name": "Ruby on Rails",
+          "slug": "ruby-on-rails",
+          "createdAt": "2019-04-24T16:32:31.899Z",
+          "updatedAt": "2019-04-24T16:32:31.899Z"
+        },
+        {
+          "id": "cjv19ovh900jt0722a7n5chxz",
+          "name": "Swift",
+          "slug": "swift",
+          "createdAt": "2019-04-28T18:28:33.501Z",
+          "updatedAt": "2019-04-28T18:28:33.501Z"
+        },
+        {
+          "id": "cjv1a968s00oj0722or5st30d",
+          "name": "Management",
+          "slug": "management",
+          "createdAt": "2019-04-28T18:44:20.572Z",
+          "updatedAt": "2019-04-28T18:47:46.406Z"
+        },
+        {
+          "id": "cjv23sze9018h07339yf7upab",
+          "name": "Redis",
+          "slug": "redis",
+          "createdAt": "2019-04-29T08:31:33.681Z",
+          "updatedAt": "2019-04-29T08:31:33.681Z"
+        },
+        {
+          "id": "cjv2gckny02cu0733w0cpzalo",
+          "name": "Postgres",
+          "slug": "postgres",
+          "createdAt": "2019-04-29T14:22:43.102Z",
+          "updatedAt": "2019-04-29T14:22:43.102Z"
+        },
+        {
+          "id": "cjv2gdqsw02df0733s8k7fyn9",
+          "name": "AWS",
+          "slug": "aws",
+          "createdAt": "2019-04-29T14:23:37.712Z",
+          "updatedAt": "2019-04-29T14:23:37.712Z"
+        },
+        {
+          "id": "cjv58z23g00pg0779sac9t8ot",
+          "name": "Webpack",
+          "slug": "webpack",
+          "createdAt": "2019-05-01T13:19:33.724Z",
+          "updatedAt": "2019-05-01T13:19:33.724Z"
+        },
+        {
+          "id": "cjv59eksm00rv0779eirq59n2",
+          "name": "Redshift",
+          "slug": "redshift",
+          "createdAt": "2019-05-01T13:31:37.798Z",
+          "updatedAt": "2019-05-01T13:31:37.798Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv597dki00qw0779ypz51map",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Engineer",
+      "slug": "senior-engineer",
+      "createdAt": "2019-05-01T13:26:01.841Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        },
+        {
+          "id": "cjuvfs97f02nw0735fs7thkba",
+          "name": "Ruby on Rails",
+          "slug": "ruby-on-rails",
+          "createdAt": "2019-04-24T16:32:31.899Z",
+          "updatedAt": "2019-04-24T16:32:31.899Z"
+        },
+        {
+          "id": "cjv23sze9018h07339yf7upab",
+          "name": "Redis",
+          "slug": "redis",
+          "createdAt": "2019-04-29T08:31:33.681Z",
+          "updatedAt": "2019-04-29T08:31:33.681Z"
+        },
+        {
+          "id": "cjv2gckny02cu0733w0cpzalo",
+          "name": "Postgres",
+          "slug": "postgres",
+          "createdAt": "2019-04-29T14:22:43.102Z",
+          "updatedAt": "2019-04-29T14:22:43.102Z"
+        },
+        {
+          "id": "cjv2gdqsw02df0733s8k7fyn9",
+          "name": "AWS",
+          "slug": "aws",
+          "createdAt": "2019-04-29T14:23:37.712Z",
+          "updatedAt": "2019-04-29T14:23:37.712Z"
+        },
+        {
+          "id": "cjv58z23g00pg0779sac9t8ot",
+          "name": "Webpack",
+          "slug": "webpack",
+          "createdAt": "2019-05-01T13:19:33.724Z",
+          "updatedAt": "2019-05-01T13:19:33.724Z"
+        },
+        {
+          "id": "cjv59eksm00rv0779eirq59n2",
+          "name": "Redshift",
+          "slug": "redshift",
+          "createdAt": "2019-05-01T13:31:37.798Z",
+          "updatedAt": "2019-05-01T13:31:37.798Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv2g9l3x02c407335pzjxzsp",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Software Engineer",
+      "slug": "software-engineer",
+      "createdAt": "2019-04-29T14:20:23.707Z",
+      "locationNames": null,
+      "isFeatured": false,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        },
+        {
+          "id": "cjuvfs97f02nw0735fs7thkba",
+          "name": "Ruby on Rails",
+          "slug": "ruby-on-rails",
+          "createdAt": "2019-04-24T16:32:31.899Z",
+          "updatedAt": "2019-04-24T16:32:31.899Z"
+        },
+        {
+          "id": "cjv2gckny02cu0733w0cpzalo",
+          "name": "Postgres",
+          "slug": "postgres",
+          "createdAt": "2019-04-29T14:22:43.102Z",
+          "updatedAt": "2019-04-29T14:22:43.102Z"
+        },
+        {
+          "id": "cjv2gdkd002d607333yvo3ucn",
+          "name": "Heroku",
+          "slug": "heroku",
+          "createdAt": "2019-04-29T14:23:29.364Z",
+          "updatedAt": "2019-04-29T14:23:29.364Z"
+        },
+        {
+          "id": "cjv2gdqsw02df0733s8k7fyn9",
+          "name": "AWS",
+          "slug": "aws",
+          "createdAt": "2019-04-29T14:23:37.712Z",
+          "updatedAt": "2019-04-29T14:23:37.712Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Atlanta",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv58vzdf00oa07794cx8qs9e",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Site Reliability Engineer",
+      "slug": "senior-site-reliability-engineer",
+      "createdAt": "2019-05-01T13:17:10.227Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        },
+        {
+          "id": "cjuvfs97f02nw0735fs7thkba",
+          "name": "Ruby on Rails",
+          "slug": "ruby-on-rails",
+          "createdAt": "2019-04-24T16:32:31.899Z",
+          "updatedAt": "2019-04-24T16:32:31.899Z"
+        },
+        {
+          "id": "cjv2gdqsw02df0733s8k7fyn9",
+          "name": "AWS",
+          "slug": "aws",
+          "createdAt": "2019-04-29T14:23:37.712Z",
+          "updatedAt": "2019-04-29T14:23:37.712Z"
+        },
+        {
+          "id": "cjv48lovf02zk0727ncr1ja2v",
+          "name": "Docker",
+          "slug": "docker",
+          "createdAt": "2019-04-30T20:21:23.883Z",
+          "updatedAt": "2019-04-30T20:21:23.883Z"
+        },
+        {
+          "id": "cjv58s2pt00na0779a3iwbquf",
+          "name": "SRE",
+          "slug": "sre",
+          "createdAt": "2019-05-01T13:14:07.937Z",
+          "updatedAt": "2019-05-01T13:14:07.937Z"
+        },
+        {
+          "id": "cjv58z23g00pg0779sac9t8ot",
+          "name": "Webpack",
+          "slug": "webpack",
+          "createdAt": "2019-05-01T13:19:33.724Z",
+          "updatedAt": "2019-05-01T13:19:33.724Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv5221wu002e07799eyxyzle",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Front-End Intern",
+      "slug": "front-end-intern",
+      "createdAt": "2019-05-01T10:05:56.136Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5st6700i1073596k2wa0e",
+          "name": "Relay",
+          "slug": "relay",
+          "createdAt": "2019-04-24T11:53:01.614Z",
+          "updatedAt": "2019-04-24T11:53:01.614Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjv23t4fq018q0733yrikt93m",
+          "name": "Express",
+          "slug": "express",
+          "createdAt": "2019-04-29T08:31:40.214Z",
+          "updatedAt": "2019-04-29T08:31:40.214Z"
+        },
+        {
+          "id": "cjv52198g00200779dy62ez14",
+          "name": "Internship",
+          "slug": "internship",
+          "createdAt": "2019-05-01T10:05:18.976Z",
+          "updatedAt": "2019-05-01T10:05:18.976Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv48i0c102yd07279vvrteha",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Experienced Front-end Engineer",
+      "slug": "experienced-front-end-engineer",
+      "createdAt": "2019-04-30T20:18:32.113Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjv48lwtv02zt0727qk7mrob3",
+          "name": "Kotlin",
+          "slug": "kotlin",
+          "createdAt": "2019-04-30T20:21:34.194Z",
+          "updatedAt": "2019-04-30T20:21:34.194Z"
+        },
+        {
+          "id": "cjv48ojlx030b0727k868a1wz",
+          "name": "Spring",
+          "slug": "spring",
+          "createdAt": "2019-04-30T20:23:37.028Z",
+          "updatedAt": "2019-04-30T20:23:37.028Z"
+        },
+        {
+          "id": "cjv48wewv032i0727iancc2wv",
+          "name": "Frontend",
+          "slug": "frontend",
+          "createdAt": "2019-04-30T20:29:44.191Z",
+          "updatedAt": "2019-04-30T20:29:44.191Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Rouen",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv3yh41501bi07277e6fa0fr",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Software Developer",
+      "slug": "senior-software-developer",
+      "createdAt": "2019-04-30T15:37:54.088Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Toronto",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv3u1l9m00n307276hnclkqc",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Software Developer",
+      "slug": "software-developer",
+      "createdAt": "2019-04-30T13:33:51.458Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Toronto",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv2rpmj105fg07338femtt06",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Product Engineer",
+      "slug": "senior-product-engineer",
+      "createdAt": "2019-04-29T19:40:47.821Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        },
+        {
+          "id": "cjv2rruhu05fz0733z7qvgpiy",
+          "name": "Flow",
+          "slug": "flow",
+          "createdAt": "2019-04-29T19:42:31.458Z",
+          "updatedAt": "2019-04-29T19:42:31.458Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv2qu4sl05b707331hnug02o",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior Growth Engineer",
+      "slug": "senior-growth-engineer",
+      "createdAt": "2019-04-29T19:16:18.501Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        },
+        {
+          "id": "cjv1bvtzd00xe0722y6ykez6a",
+          "name": "Java",
+          "slug": "java",
+          "createdAt": "2019-04-28T19:29:57.384Z",
+          "updatedAt": "2019-04-28T19:29:57.384Z"
+        },
+        {
+          "id": "cjv2gckny02cu0733w0cpzalo",
+          "name": "Postgres",
+          "slug": "postgres",
+          "createdAt": "2019-04-29T14:22:43.102Z",
+          "updatedAt": "2019-04-29T14:22:43.102Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv2llal1056y0733zh8pjsrw",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Senior iOS Engineer",
+      "slug": "senior-ios-engineer",
+      "createdAt": "2019-04-29T16:49:28.021Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvaitie012e0735sl351s3t",
+          "name": "iOS",
+          "slug": "ios",
+          "createdAt": "2019-04-24T14:05:13.574Z",
+          "updatedAt": "2019-04-24T14:05:13.574Z"
+        },
+        {
+          "id": "cjv19ovh900jt0722a7n5chxz",
+          "name": "Swift",
+          "slug": "swift",
+          "createdAt": "2019-04-28T18:28:33.501Z",
+          "updatedAt": "2019-04-28T18:28:33.501Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv2j18jd03rd07339frvy4rs",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Backend Engineer",
+      "slug": "backend-engineer",
+      "createdAt": "2019-04-29T15:37:53.016Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv5tc5300ij0735n472didd",
+          "name": "Backend",
+          "slug": "backend",
+          "createdAt": "2019-04-24T11:53:26.198Z",
+          "updatedAt": "2019-04-24T11:53:26.198Z"
+        },
+        {
+          "id": "cjuvfs35602nn0735uw9f26w4",
+          "name": "Ruby",
+          "slug": "ruby",
+          "createdAt": "2019-04-24T16:32:24.042Z",
+          "updatedAt": "2019-04-24T16:32:24.042Z"
+        },
+        {
+          "id": "cjuvfs97f02nw0735fs7thkba",
+          "name": "Ruby on Rails",
+          "slug": "ruby-on-rails",
+          "createdAt": "2019-04-24T16:32:31.899Z",
+          "updatedAt": "2019-04-24T16:32:31.899Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv24092m01bb07331fguypk3",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Unicorn Designer Developer",
+      "slug": "unicorn-designer-developer",
+      "createdAt": "2019-04-29T08:37:12.814Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjv23t4fq018q0733yrikt93m",
+          "name": "Express",
+          "slug": "express",
+          "createdAt": "2019-04-29T08:31:40.214Z",
+          "updatedAt": "2019-04-29T08:31:40.214Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Skien",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv23r7c6017r0733vl5w4ols",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Backend Developer",
+      "slug": "backend-developer",
+      "createdAt": "2019-04-29T08:30:10.661Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjuvphr8p03t40735bmqylk7l",
+          "name": "Lambda",
+          "slug": "lambda",
+          "createdAt": "2019-04-24T21:04:18.217Z",
+          "updatedAt": "2019-04-24T21:04:18.217Z"
+        },
+        {
+          "id": "cjv23sze9018h07339yf7upab",
+          "name": "Redis",
+          "slug": "redis",
+          "createdAt": "2019-04-29T08:31:33.681Z",
+          "updatedAt": "2019-04-29T08:31:33.681Z"
+        },
+        {
+          "id": "cjv23t4fq018q0733yrikt93m",
+          "name": "Express",
+          "slug": "express",
+          "createdAt": "2019-04-29T08:31:40.214Z",
+          "updatedAt": "2019-04-29T08:31:40.214Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Skien",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv1fmae101kx07227d781vr1",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Software Engineer - GraphQL",
+      "slug": "software-engineer-graphql",
+      "createdAt": "2019-04-28T21:14:30.552Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5u6fa00j10735glq5v5e2",
+          "name": "Scala",
+          "slug": "scala",
+          "createdAt": "2019-04-24T11:54:05.445Z",
+          "updatedAt": "2019-04-24T11:54:05.445Z"
+        },
+        {
+          "id": "cjuvaitie012e0735sl351s3t",
+          "name": "iOS",
+          "slug": "ios",
+          "createdAt": "2019-04-24T14:05:13.574Z",
+          "updatedAt": "2019-04-24T14:05:13.574Z"
+        },
+        {
+          "id": "cjuvaiy8d012n0735l3xip2mu",
+          "name": "Android",
+          "slug": "android",
+          "createdAt": "2019-04-24T14:05:19.693Z",
+          "updatedAt": "2019-04-24T14:05:19.693Z"
+        },
+        {
+          "id": "cjv1bvtzd00xe0722y6ykez6a",
+          "name": "Java",
+          "slug": "java",
+          "createdAt": "2019-04-28T19:29:57.384Z",
+          "updatedAt": "2019-04-28T19:29:57.384Z"
+        },
+        {
+          "id": "cjv1fnwdz01lg07222bbhv255",
+          "name": "Clojure",
+          "slug": "clojure",
+          "createdAt": "2019-04-28T21:15:45.719Z",
+          "updatedAt": "2019-04-28T21:15:45.719Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv1fij8g01js072259ysjdwm",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Engineering Manager - Consumer API",
+      "slug": "engineering-manager-consumer-api",
+      "createdAt": "2019-04-28T21:11:35.387Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjv1a968s00oj0722or5st30d",
+          "name": "Management",
+          "slug": "management",
+          "createdAt": "2019-04-28T18:44:20.572Z",
+          "updatedAt": "2019-04-28T18:47:46.406Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv1eyvy201g807227723ohsa",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Backend Engineer (TweetDeck)",
+      "slug": "backend-engineer-tweetdeck",
+      "createdAt": "2019-04-28T20:56:18.746Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5u6fa00j10735glq5v5e2",
+          "name": "Scala",
+          "slug": "scala",
+          "createdAt": "2019-04-24T11:54:05.445Z",
+          "updatedAt": "2019-04-24T11:54:05.445Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv1bu5ws00wk0722s5i7p32u",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Backend Software Engineer",
+      "slug": "backend-software-engineer",
+      "createdAt": "2019-04-28T19:28:39.532Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5tc5300ij0735n472didd",
+          "name": "Backend",
+          "slug": "backend",
+          "createdAt": "2019-04-24T11:53:26.198Z",
+          "updatedAt": "2019-04-24T11:53:26.198Z"
+        },
+        {
+          "id": "cjuv5u6fa00j10735glq5v5e2",
+          "name": "Scala",
+          "slug": "scala",
+          "createdAt": "2019-04-24T11:54:05.445Z",
+          "updatedAt": "2019-04-24T11:54:05.445Z"
+        },
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        },
+        {
+          "id": "cjv1bvohg00x50722x3q2evc0",
+          "name": "Go",
+          "slug": "go",
+          "createdAt": "2019-04-28T19:29:50.259Z",
+          "updatedAt": "2019-04-28T19:29:50.259Z"
+        },
+        {
+          "id": "cjv1bvtzd00xe0722y6ykez6a",
+          "name": "Java",
+          "slug": "java",
+          "createdAt": "2019-04-28T19:29:57.384Z",
+          "updatedAt": "2019-04-28T19:29:57.384Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv1ad4vu00pn07227suaso7q",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Engineering Manager",
+      "slug": "engineering-manager",
+      "createdAt": "2019-04-28T18:47:25.433Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": "",
+      "tags": [
+        {
+          "id": "cjv1a968s00oj0722or5st30d",
+          "name": "Management",
+          "slug": "management",
+          "createdAt": "2019-04-28T18:44:20.572Z",
+          "updatedAt": "2019-04-28T18:47:46.406Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv1a7jzr00nz072208jtyil3",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Technical Product Manager, GraphQL Platforms",
+      "slug": "technical-product-manager-graphql-platforms",
+      "createdAt": "2019-04-28T18:43:05.077Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjv1a968s00oj0722or5st30d",
+          "name": "Management",
+          "slug": "management",
+          "createdAt": "2019-04-28T18:44:20.572Z",
+          "updatedAt": "2019-04-28T18:47:46.406Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjv19z8e800lu0722qzvn4ynv",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Web Engineer",
+      "slug": "web-engineer",
+      "createdAt": "2019-04-28T18:36:36.799Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjv1a2qmv00n60722d6jxdy6o",
+          "name": "CSS Modules",
+          "slug": "css-modules",
+          "createdAt": "2019-04-28T18:39:20.407Z",
+          "updatedAt": "2019-04-28T18:39:20.407Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvpgnxt03si0735lewc2ixb",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Platform Engineer",
+      "slug": "platform-engineer",
+      "createdAt": "2019-04-24T21:03:27.281Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjuvgc9a202ze073530btrjgl",
+          "name": "Serverless",
+          "slug": "serverless",
+          "createdAt": "2019-04-24T16:48:05.114Z",
+          "updatedAt": "2019-04-24T16:48:05.114Z"
+        },
+        {
+          "id": "cjuvphr8p03t40735bmqylk7l",
+          "name": "Lambda",
+          "slug": "lambda",
+          "createdAt": "2019-04-24T21:04:18.217Z",
+          "updatedAt": "2019-04-24T21:04:18.217Z"
+        },
+        {
+          "id": "cjuvphyml03td0735417poqq1",
+          "name": "Kinesis",
+          "slug": "kinesis",
+          "createdAt": "2019-04-24T21:04:27.788Z",
+          "updatedAt": "2019-04-24T21:04:27.788Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvo4tcn03h207350gilussi",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Frontend Engineer",
+      "slug": "frontend-engineer",
+      "createdAt": "2019-04-24T20:26:14.807Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5st6700i1073596k2wa0e",
+          "name": "Relay",
+          "slug": "relay",
+          "createdAt": "2019-04-24T11:53:01.614Z",
+          "updatedAt": "2019-04-24T11:53:01.614Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvo26eu03g407350guu2gee",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Senior Frontend Engineer",
+      "slug": "senior-frontend-engineer",
+      "createdAt": "2019-04-24T20:24:11.766Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5st6700i1073596k2wa0e",
+          "name": "Relay",
+          "slug": "relay",
+          "createdAt": "2019-04-24T11:53:01.614Z",
+          "updatedAt": "2019-04-24T11:53:01.614Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvnyqqf03f10735p43xo5a0",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Senior Backend Engineer",
+      "slug": "senior-backend-engineer",
+      "createdAt": "2019-04-24T20:21:31.478Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvb1vg901760735ngfkps7y",
+          "name": "Django",
+          "slug": "django",
+          "createdAt": "2019-04-24T14:20:02.553Z",
+          "updatedAt": "2019-04-24T14:20:02.553Z"
+        },
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        },
+        {
+          "id": "cjuvnw9iv03dz0735029a9jvu",
+          "name": "Graphene",
+          "slug": "graphene",
+          "createdAt": "2019-04-24T20:19:35.863Z",
+          "updatedAt": "2019-04-24T20:19:35.863Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvnvgsb03df0735p7ixb5k6",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Backend Engineer",
+      "slug": "backend-engineer",
+      "createdAt": "2019-04-24T20:18:58.618Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvb1vg901760735ngfkps7y",
+          "name": "Django",
+          "slug": "django",
+          "createdAt": "2019-04-24T14:20:02.553Z",
+          "updatedAt": "2019-04-24T14:20:02.553Z"
+        },
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        },
+        {
+          "id": "cjuvnw9iv03dz0735029a9jvu",
+          "name": "Graphene",
+          "slug": "graphene",
+          "createdAt": "2019-04-24T20:19:35.863Z",
+          "updatedAt": "2019-04-24T20:19:35.863Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvney9q03b30735uzbz7cvb",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "React Engineer",
+      "slug": "react-engineer",
+      "createdAt": "2019-04-24T20:06:08.126Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5st6700i1073596k2wa0e",
+          "name": "Relay",
+          "slug": "relay",
+          "createdAt": "2019-04-24T11:53:01.614Z",
+          "updatedAt": "2019-04-24T11:53:01.614Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvmzut4032n0735ytyq3ztv",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Lead Frontend Developer (m/f/d)",
+      "slug": "lead-frontend-developer",
+      "createdAt": "2019-04-24T19:54:23.799Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8p7ta00qt0735edys5ye9",
+          "name": "TypeScript",
+          "slug": "typescript",
+          "createdAt": "2019-04-24T13:14:12.814Z",
+          "updatedAt": "2019-04-24T13:14:12.814Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Berlin",
+          "type": "city"
+        },
+        {
+          "name": "Giessen",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvg9w2202yt0735as732bqx",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Full-stack Developer",
+      "slug": "full-stack-developer",
+      "createdAt": "2019-04-24T16:46:14.665Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb1vg901760735ngfkps7y",
+          "name": "Django",
+          "slug": "django",
+          "createdAt": "2019-04-24T14:20:02.553Z",
+          "updatedAt": "2019-04-24T14:20:02.553Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        },
+        {
+          "id": "cjuvfs97f02nw0735fs7thkba",
+          "name": "Ruby on Rails",
+          "slug": "ruby-on-rails",
+          "createdAt": "2019-04-24T16:32:31.899Z",
+          "updatedAt": "2019-04-24T16:32:31.899Z"
+        },
+        {
+          "id": "cjuvgc9a202ze073530btrjgl",
+          "name": "Serverless",
+          "slug": "serverless",
+          "createdAt": "2019-04-24T16:48:05.114Z",
+          "updatedAt": "2019-04-24T16:48:05.114Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Bangalore",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvg4w1g02wk0735x798yok6",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Senior Haskell Engineer",
+      "slug": "senior-haskell-engineer",
+      "createdAt": "2019-04-24T16:42:21.364Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvg55a302wx0735b5nkzz87",
+          "name": "Haskell",
+          "slug": "haskell",
+          "createdAt": "2019-04-24T16:42:33.339Z",
+          "updatedAt": "2019-04-24T16:42:33.339Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "Bangalore",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvfpm4n02mf07356tkie8yc",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Senior Full Stack Engineer, Project Community",
+      "slug": "senior-full-stack-engineer-project-community",
+      "createdAt": "2019-04-24T16:30:28.679Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8p7ta00qt0735edys5ye9",
+          "name": "TypeScript",
+          "slug": "typescript",
+          "createdAt": "2019-04-24T13:14:12.814Z",
+          "updatedAt": "2019-04-24T13:14:12.814Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        },
+        {
+          "id": "cjuvfs97f02nw0735fs7thkba",
+          "name": "Ruby on Rails",
+          "slug": "ruby-on-rails",
+          "createdAt": "2019-04-24T16:32:31.899Z",
+          "updatedAt": "2019-04-24T16:32:31.899Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvfm26d02lb07350v12c2d6",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Senior Software Engineer, API",
+      "slug": "senior-software-engineer-api",
+      "createdAt": "2019-04-24T16:27:42.853Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5tc5300ij0735n472didd",
+          "name": "Backend",
+          "slug": "backend",
+          "createdAt": "2019-04-24T11:53:26.198Z",
+          "updatedAt": "2019-04-24T11:53:26.198Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvfio1402jo0735ydkqxs3s",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Front End Engineer",
+      "slug": "front-end-engineer",
+      "createdAt": "2019-04-24T16:25:04.552Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8p7ta00qt0735edys5ye9",
+          "name": "TypeScript",
+          "slug": "typescript",
+          "createdAt": "2019-04-24T13:14:12.814Z",
+          "updatedAt": "2019-04-24T13:14:12.814Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        },
+        {
+          "id": "cjuvfjukh02k80735btix0ni9",
+          "name": "Redux",
+          "slug": "redux",
+          "createdAt": "2019-04-24T16:25:59.681Z",
+          "updatedAt": "2019-04-24T16:25:59.681Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "New York",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvezoh002gb07350tvhvgnr",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Future Senior Software Engineer",
+      "slug": "future-senior-software-engineer",
+      "createdAt": "2019-04-24T16:10:18.660Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuveovrz02cb0735ondjwe1e",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Cross-Stack React Engineer",
+      "slug": "cross-stack-react-engineer",
+      "createdAt": "2019-04-24T16:01:54.909Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuve6b2g02360735bpjdhabq",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Full-Stack JavaScript Engineer",
+      "slug": "full-stack-javascript-engineer",
+      "createdAt": "2019-04-24T15:47:28.263Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        },
+        {
+          "id": "cjuvbo2zn01bd0735gofhie7i",
+          "name": "Node.js",
+          "slug": "node-js",
+          "createdAt": "2019-04-24T14:37:18.755Z",
+          "updatedAt": "2019-04-30T15:36:13.823Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Miami",
+          "type": "city"
+        },
+        {
+          "name": "Toronto",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvcje8s01f407350cwe653y",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Full Stack Developer W/ Elixir Experience",
+      "slug": "full-stack-developer-w-elixir-experience",
+      "createdAt": "2019-04-24T15:01:39.675Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvcgpyi01dr0735o6heljr5",
+          "name": "Elixir",
+          "slug": "elixir",
+          "createdAt": "2019-04-24T14:59:34.889Z",
+          "updatedAt": "2019-04-24T14:59:34.889Z"
+        },
+        {
+          "id": "cjuvcgw6o01e007358gao116j",
+          "name": "Phoenix",
+          "slug": "phoenix",
+          "createdAt": "2019-04-24T14:59:42.960Z",
+          "updatedAt": "2019-04-24T14:59:42.960Z"
+        },
+        {
+          "id": "cjuvch2sw01e90735upciv2ws",
+          "name": "Absinthe",
+          "slug": "absinthe",
+          "createdAt": "2019-04-24T14:59:51.536Z",
+          "updatedAt": "2019-04-24T14:59:51.536Z"
+        },
+        {
+          "id": "cjuvchmgl01ej0735lulrje9d",
+          "name": "Full Stack",
+          "slug": "full-stack",
+          "createdAt": "2019-04-24T15:00:17.013Z",
+          "updatedAt": "2019-04-24T16:31:24.716Z"
+        },
+        {
+          "id": "cjuvchuqx01es0735lr82dn03",
+          "name": "Erlang",
+          "slug": "erlang",
+          "createdAt": "2019-04-24T15:00:27.753Z",
+          "updatedAt": "2019-04-24T15:00:27.753Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": []
+    },
+    {
+      "id": "cjuvb97og01a80735dbsl7fpk",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "React/React Native Developer",
+      "slug": "react-react-native-developer",
+      "createdAt": "2019-04-24T14:25:44.992Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5st6700i1073596k2wa0e",
+          "name": "Relay",
+          "slug": "relay",
+          "createdAt": "2019-04-24T11:53:01.614Z",
+          "updatedAt": "2019-04-24T11:53:01.614Z"
+        },
+        {
+          "id": "cjuv8qulh00rm07354wgbdiuv",
+          "name": "React",
+          "slug": "react",
+          "createdAt": "2019-04-24T13:15:28.997Z",
+          "updatedAt": "2019-04-24T13:15:28.997Z"
+        },
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        },
+        {
+          "id": "cjuvb80zn019u0735o07bruto",
+          "name": "React Native",
+          "slug": "react-native",
+          "createdAt": "2019-04-24T14:24:49.667Z",
+          "updatedAt": "2019-04-24T14:24:49.667Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        },
+        {
+          "name": "Cambridge",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvb571b018607351syq4e73",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Python / Django Developer",
+      "slug": "python-django-developer",
+      "createdAt": "2019-04-24T14:22:37.534Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvb1vg901760735ngfkps7y",
+          "name": "Django",
+          "slug": "django",
+          "createdAt": "2019-04-24T14:20:02.553Z",
+          "updatedAt": "2019-04-24T14:20:02.553Z"
+        },
+        {
+          "id": "cjuvb22bh017f07351gib1q0b",
+          "name": "Python",
+          "slug": "python",
+          "createdAt": "2019-04-24T14:20:11.453Z",
+          "updatedAt": "2019-04-24T14:20:11.453Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "London",
+          "type": "city"
+        },
+        {
+          "name": "Cambridge",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvandvo01430735nf44pwl0",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Open Source Engineer",
+      "slug": "open-source-engineer",
+      "createdAt": "2019-04-24T14:08:46.595Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvajnzp012z0735zsyq8lr1",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Mobile Engineer",
+      "slug": "mobile-engineer",
+      "createdAt": "2019-04-24T14:05:53.076Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        },
+        {
+          "id": "cjuvaitie012e0735sl351s3t",
+          "name": "iOS",
+          "slug": "ios",
+          "createdAt": "2019-04-24T14:05:13.574Z",
+          "updatedAt": "2019-04-24T14:05:13.574Z"
+        },
+        {
+          "id": "cjuvaiy8d012n0735l3xip2mu",
+          "name": "Android",
+          "slug": "android",
+          "createdAt": "2019-04-24T14:05:19.693Z",
+          "updatedAt": "2019-04-24T14:05:19.693Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvaeyue010k0735f0icx2jr",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Backend Software Engineer",
+      "slug": "backend-software-engineer",
+      "createdAt": "2019-04-24T14:02:13.862Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuvabaje00zb0735qcabqza8",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Apollo Solutions Architect",
+      "slug": "apollo-solutions-architect",
+      "createdAt": "2019-04-24T13:59:22.393Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuvag53l01150735yxhsxj5i",
+          "name": "Apollo",
+          "slug": "apollo",
+          "createdAt": "2019-04-24T14:03:08.625Z",
+          "updatedAt": "2019-04-24T14:03:08.625Z"
+        }
+      ],
+      "remotes": [
+        {
+          "id": "cjuv5i77u00he0735n1mdx6fq",
+          "name": "Remote",
+          "slug": "remote",
+          "type": "remote"
+        }
+      ],
+      "cities": [
+        {
+          "name": "San Francisco",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuv7gyjp00p90735ylvalfcw",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "JavaScript Engineer",
+      "slug": "javascript-engineer",
+      "createdAt": "2019-04-24T12:39:47.941Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5smm500hs0735aqd0bds5",
+          "name": "Prisma",
+          "slug": "prisma",
+          "createdAt": "2019-04-24T11:52:53.116Z",
+          "updatedAt": "2019-04-24T11:52:53.116Z"
+        },
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        },
+        {
+          "id": "cjuv8p7ta00qt0735edys5ye9",
+          "name": "TypeScript",
+          "slug": "typescript",
+          "createdAt": "2019-04-24T13:14:12.814Z",
+          "updatedAt": "2019-04-24T13:14:12.814Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Berlin",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuv67iby00m7073524m7c01j",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Engineering Manager",
+      "slug": "engineering-manager",
+      "createdAt": "2019-04-24T12:04:27.405Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5smm500hs0735aqd0bds5",
+          "name": "Prisma",
+          "slug": "prisma",
+          "createdAt": "2019-04-24T11:52:53.116Z",
+          "updatedAt": "2019-04-24T11:52:53.116Z"
+        },
+        {
+          "id": "cjuv5tyh600is0735l9i9868l",
+          "name": "Rust",
+          "slug": "rust",
+          "createdAt": "2019-04-24T11:53:55.146Z",
+          "updatedAt": "2019-04-24T11:53:55.146Z"
+        },
+        {
+          "id": "cjuv5u6fa00j10735glq5v5e2",
+          "name": "Scala",
+          "slug": "scala",
+          "createdAt": "2019-04-24T11:54:05.445Z",
+          "updatedAt": "2019-04-24T11:54:05.445Z"
+        },
+        {
+          "id": "cjv1a968s00oj0722or5st30d",
+          "name": "Management",
+          "slug": "management",
+          "createdAt": "2019-04-28T18:44:20.572Z",
+          "updatedAt": "2019-04-28T18:47:46.406Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Berlin",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuv5x5je00k70735fzuc3sis",
+      "type": "remote",
+      "job_type":"graphql",
+      "title": "Developer Support Engineer",
+      "slug": "developer-support-engineer",
+      "createdAt": "2019-04-24T11:56:24.263Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5smm500hs0735aqd0bds5",
+          "name": "Prisma",
+          "slug": "prisma",
+          "createdAt": "2019-04-24T11:52:53.116Z",
+          "updatedAt": "2019-04-24T11:52:53.116Z"
+        },
+        {
+          "id": "cjuv5t1so00ia0735rp9gs9eo",
+          "name": "JavaScript",
+          "slug": "javascript",
+          "createdAt": "2019-04-24T11:53:12.792Z",
+          "updatedAt": "2019-04-24T13:14:02.499Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Berlin",
+          "type": "city"
+        }
+      ]
+    },
+    {
+      "id": "cjuv53bpu00fs0735b5ljpmpc",
+      "type": "Full Time",
+      "job_type":"graphql",
+      "title": "Backend Engineer",
+      "slug": "backend-engineer",
+      "createdAt": "2019-04-24T11:33:12.594Z",
+      "locationNames": null,
+      "isFeatured": null,
+      "isPublished": true,
+      "userEmail": null,
+      "tags": [
+        {
+          "id": "cjuv5smm500hs0735aqd0bds5",
+          "name": "Prisma",
+          "slug": "prisma",
+          "createdAt": "2019-04-24T11:52:53.116Z",
+          "updatedAt": "2019-04-24T11:52:53.116Z"
+        },
+        {
+          "id": "cjuv5tc5300ij0735n472didd",
+          "name": "Backend",
+          "slug": "backend",
+          "createdAt": "2019-04-24T11:53:26.198Z",
+          "updatedAt": "2019-04-24T11:53:26.198Z"
+        },
+        {
+          "id": "cjuv5tyh600is0735l9i9868l",
+          "name": "Rust",
+          "slug": "rust",
+          "createdAt": "2019-04-24T11:53:55.146Z",
+          "updatedAt": "2019-04-24T11:53:55.146Z"
+        },
+        {
+          "id": "cjuv5u6fa00j10735glq5v5e2",
+          "name": "Scala",
+          "slug": "scala",
+          "createdAt": "2019-04-24T11:54:05.445Z",
+          "updatedAt": "2019-04-24T11:54:05.445Z"
+        }
+      ],
+      "remotes": [],
+      "cities": [
+        {
+          "name": "Berlin",
+          "type": "city"
+        }
+      ]
+    }
+  ]

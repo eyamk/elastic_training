@@ -1,0 +1,114 @@
+{
+  "version":5,
+  "index_patterns": ["gql_entity*"],
+ "settings": {
+    "number_of_shards": 2,
+    "number_of_replicas": 3
+  },
+  "mappings": {
+    "dynamic": "false",
+    "properties": {
+      "id":{
+        "type": "text"
+      },
+      "type":{
+        "type": "text",
+        "fielddata":true
+      },
+      "job_type":{
+        "type":"text",
+        "fielddata":true
+      },
+      "title":{
+        "type": "text"
+      },
+      "slug":{
+        "type": "text"
+      },
+      "createdAt":{
+        "type": "date",
+     "format":"basic_date||epoch_millis",
+     "ignore_malformed": true
+      },
+      "locationNames":{
+        "type": "text"
+      },
+      "isFeatured":{
+        "type": "boolean"
+      },
+      "isPublished":{
+        "type": "boolean"
+      },
+      "userEmail":{
+        "type": "text"
+      },
+      "tags":{
+        
+        "properties": {
+          "id":{
+            "type":"text"
+          },
+          "name":{
+            "type":"text"
+          },
+          "slug":{
+            "type":"text"
+          },
+          "updatedAt":{
+        "type": "date",
+     "format":"basic_date||epoch_millis",
+     "ignore_malformed": true
+      },
+      "createdAt":{
+        "type": "date",
+     "format":"basic_date||epoch_millis",
+     "ignore_malformed": true
+      }
+        }
+      },
+      
+      
+      "remotes":{
+        
+        "properties": {
+          "id":{
+            "type":"text"
+          },
+          "name":{
+            "type":"text"
+          },
+          "slug":{
+            "type":"text"
+          },
+          "type":{
+            "type":"text"
+          }
+       
+       
+        }
+      }
+      
+      ,
+      
+    
+      "cities":{
+        "properties": { 
+          "name":{
+            "type":"text"
+          },
+          "type":{
+            "type":"text"
+          }
+       
+       
+        }
+      }
+      
+      
+      
+      
+      
+    }
+      }
+      
+    }

@@ -1,0 +1,88 @@
+{
+  "version":7,
+  "index_patterns": ["entity_job*"],
+ "settings": {
+  "analysis": {
+    "analyzer": {
+      "autocomplete_analyzer":{
+        "char_filter":["pattern_char_filter","html_strip"],
+        "tokenizer":"autocomplete_tokenizer"
+      },
+      "pattern_analyzer": {
+       "filter":["lowercase"],
+       "char_filter": ["pattern_char_filter","html_strip"],
+      "tokenizer": "standard"
+      }
+      
+    },
+    "tokenizer": {
+      "autocomplete_tokenizer":{
+        "type":"edge_ngram",
+        "min_gram":3,
+        "max_gram":12
+      }
+    }, 
+    
+    "char_filter": {
+      "pattern_char_filter": {
+        "type": "pattern_replace",
+        "pattern": "(?<=\\p{Lower})(?=\\p{Upper})",
+        "replacement": " "
+      }
+    }
+  },
+    "number_of_shards": 2,
+    "number_of_replicas": 3
+  },
+  "mappings": {
+    "dynamic": "false",
+    "properties": {
+      "id":{
+        "type": "integer"
+      },
+      "type":{
+        "type": "text",
+        "fielddata":true
+      },
+      "job_type":{
+        "type":"text",
+        "fielddata":true
+      },
+      "url":{
+        "type": "text"
+      },
+      
+      "created_at":{
+        "type": "date",
+     "format":"basic_date||epoch_millis",
+     "ignore_malformed": true
+      },
+
+      "company":{
+        "type": "text" 
+         
+      },
+      "company_url":{
+        "type": "text"
+      },
+      "location":{
+        "type": "text"
+      },
+      "title":{
+        "type": "text" ,
+        "fielddata":true 
+
+      },
+      "description":{
+        "type": "text",
+        "fielddata":true
+      },
+      "how_to_apply":{
+        "type": "text"
+      },
+      "company_logo":{
+        "type": "text"
+      }
+    }
+  }
+}
